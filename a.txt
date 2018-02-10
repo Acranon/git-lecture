@@ -1,2 +1,2 @@
-some text
+some text - changing some text on a.txt
 more text
